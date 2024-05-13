@@ -1,5 +1,5 @@
 .cabeçalho_lista {
-    background-color: rgba(105, 103, 99, 0.568);
+    background-color: rgba(245, 118, 118);
     color: white;
     display: flex;
     justify-content: space-around;
@@ -24,4 +24,4 @@
     margin: 0 16px;
     padding: 24px 0;
     }
-    0
+    
